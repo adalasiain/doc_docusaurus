@@ -1,0 +1,8 @@
+{
+  "label": "Promise.all (Promesas en paralelo)",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Promesas en cadena ejecutandose en paralelo"
+  }
+}
